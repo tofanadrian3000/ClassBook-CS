@@ -1,0 +1,4 @@
+1,Adrian,227,adr@y.com,Sergiu,True
+2,Stefan,223,stefan@email.com,Camelia,True
+3,Vladone,304,vlad@y.com,304,False
+4,Andreius,223,andreius@yahoo.com,Sergiu,True
